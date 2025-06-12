@@ -4,7 +4,8 @@
 </head>
 <body>
 <img  alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3duNmh6MmI1YXNieXYxdTlqZ2o4b2ZreWRyZG5jZHZuYzk2Ym40byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.webp">
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Flutter Animation" width="400">
+<img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" alt="Dart Animation" width="400">
+
 
 
 <h1 align="center">Hi 👋, I'm abhisek pattnaik</h1>
